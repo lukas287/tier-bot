@@ -1,0 +1,4 @@
+{
+  "build": "cd tier-test-bot-main && pip install -r requirements.txt",
+  "start": "cd tier-test-bot-main && python main.py"
+}
