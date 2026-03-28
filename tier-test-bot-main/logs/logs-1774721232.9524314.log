@@ -1,0 +1,26 @@
+2026-03-28 19:07:12,986:WARNING:nextcord.client: PyNaCl is not installed, voice will NOT be supported
+2026-03-28 19:07:12,990:INFO:nextcord.client: logging in using static token
+2026-03-28 19:07:13,007:INFO:nextcord.http: Allowed 1 rate limits to be garbage collected.
+2026-03-28 19:07:13,441:INFO:nextcord.gateway: Shard ID None has sent the IDENTIFY payload.
+2026-03-28 19:07:13,687:INFO:nextcord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-b-v110",{"micros":136400,"calls":["id_created",{"micros":2641,"calls":[]},"session_lookup_time",{"micros":1802,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"sessions-prd-gcp-us-east1-b-190",{"micros":131490,"calls":["start_session",{"micros":123118,"calls":["discord-api-prd-canary-rpc-57b9c688b-r6zt7",{"micros":34042,"calls":["get_user",{"micros":4753},"get_guilds",{"micros":3249},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":9},"pending_payments",{"micros":1051},"apex_experiments",{"micros":61568},"sessions_experiments",{"micros":8},"played_application_ids",{"micros":4},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":38,"calls":[]},"presence_started",{"micros":7659,"calls":[]},"guilds_started",{"micros":93,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":555,"calls":[]},"connect_finished",{"micros":565,"calls":[]},"build_ready",{"micros":12,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 5caea2da9cb9fdce49907aec7c97f6a1). Resume URL specified as wss://gateway-us-east1-b.discord.gg
+2026-03-28 19:07:14,490:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('add', 1, None)
+2026-03-28 19:07:14,877:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('passeval', 1, None)
+2026-03-28 19:07:15,461:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('forceclosetest', 1, None)
+2026-03-28 19:07:15,919:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('remove', 1, None)
+2026-03-28 19:07:16,356:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('results', 1, None)
+2026-03-28 19:07:17,081:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('info', 1, None)
+2026-03-28 19:07:35,577:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('closequeue', 1, None)
+2026-03-28 19:07:36,163:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('updateusername', 1, None)
+2026-03-28 19:07:36,631:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('openqueue', 1, None)
+2026-03-28 19:07:36,958:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('updatetier', 1, None)
+2026-03-28 19:07:37,368:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('restrict', 1, None)
+2026-03-28 19:07:56,155:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('next', 1, None)
+2026-03-28 19:07:56,640:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('closetest', 1, None)
+2026-03-28 19:07:57,037:INFO:nextcord.state: nextcord.ConnectionState: Registering command with signature ('unrestrict', 1, None)
+2026-03-28 19:12:13,027:INFO:nextcord.http: Allowed 1 rate limits to be garbage collected.
+2026-03-28 19:22:13,061:INFO:nextcord.http: Allowed 2 rate limits to be garbage collected.
+2026-03-28 19:26:11,916:INFO:nextcord.client: Received keyboard interrupt, closing.
+2026-03-28 19:26:11,933:INFO:nextcord.gateway: Websocket closed with 1000, cannot reconnect.
+2026-03-28 19:26:12,178:INFO:nextcord.client: Cleaning up after 2 tasks.
+2026-03-28 19:26:12,180:INFO:nextcord.client: All tasks finished cancelling.
+2026-03-28 19:26:12,183:INFO:nextcord.client: Closing the event loop.

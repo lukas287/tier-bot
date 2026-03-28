@@ -1,0 +1,7 @@
+2026-03-28 19:04:55,514:WARNING:nextcord.client: PyNaCl is not installed, voice will NOT be supported
+2026-03-28 19:04:55,516:INFO:nextcord.client: logging in using static token
+2026-03-28 19:04:55,536:INFO:nextcord.http: Allowed 1 rate limits to be garbage collected.
+2026-03-28 19:04:56,043:WARNING:nextcord.http: Path ('GET', 'None:None:/users/@me', 'Bot YOUR_BOT[redacted]') resulted in error 401, rejected authorization?
+2026-03-28 19:04:56,166:INFO:nextcord.client: Cleaning up after 2 tasks.
+2026-03-28 19:04:56,167:INFO:nextcord.client: All tasks finished cancelling.
+2026-03-28 19:04:56,168:INFO:nextcord.client: Closing the event loop.

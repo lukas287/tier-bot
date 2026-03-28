@@ -1,0 +1,6 @@
+2026-03-28 19:06:04,087:WARNING:nextcord.client: PyNaCl is not installed, voice will NOT be supported
+2026-03-28 19:06:04,089:INFO:nextcord.client: logging in using static token
+2026-03-28 19:06:04,111:INFO:nextcord.http: Allowed 1 rate limits to be garbage collected.
+2026-03-28 19:06:04,607:INFO:nextcord.gateway: Shard ID None has sent the IDENTIFY payload.
+2026-03-28 19:06:05,708:INFO:nextcord.gateway: Websocket closed with 4014, cannot reconnect.
+2026-03-28 19:06:05,815:INFO:nextcord.client: Closing the event loop.
