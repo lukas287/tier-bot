@@ -10,10 +10,6 @@ A Minecraft PvP tier rankings website with an admin panel and SQLite database.
 - Minecraft player head avatar shown for entries
 - SQLite database persistence
 
-## Admin credentials
-- Email: `creepertiers@gmail.com`
-- Password: `acyyyy_goat`
-
 ## Run locally
 1. Install dependencies:
    ```bash
